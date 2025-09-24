@@ -9,4 +9,6 @@ A calculator that calculates simple interest given:
 
 ## Usage
 - See `simple-interest.sh` for a bash script version.
+
+
 2022 XYX,inc
