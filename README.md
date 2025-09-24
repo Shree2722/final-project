@@ -11,4 +11,4 @@ A calculator that calculates simple interest given:
 - See `simple-interest.sh` for a bash script version.
 
 
-2022 XYX,inc
+2023 XYX,inc
